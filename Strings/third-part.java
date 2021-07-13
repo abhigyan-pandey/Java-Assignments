@@ -1,3 +1,7 @@
+package Strings;
+import edu.duke.*;
+import java.io.File;
+import java.util.*;
 public class Part1 {
     public int findStopCodon(String dna, int startIndex, String stopCodon) {
         int index = 0;

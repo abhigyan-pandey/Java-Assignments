@@ -1,6 +1,6 @@
 import edu.duke.*;
 import java.io.File;
-import java.util.Iterator;
+import java.util.*;
 
 public class PerimeterAssignmentRunner {
     public double getPerimeter(Shape s) {
